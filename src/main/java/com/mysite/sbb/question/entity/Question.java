@@ -1,4 +1,6 @@
-package com.mysite.sbb.entity;
+package com.mysite.sbb.question.entity;
+
+import com.mysite.sbb.answer.entity.Answer;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;
